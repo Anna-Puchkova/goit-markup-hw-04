@@ -440,7 +440,7 @@ max-width: 1158px;
    
 }
 .container-social {
-  margin-bottom: 16px;
+
   
   
 }
@@ -450,7 +450,7 @@ max-width: 1158px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  
+    margin-bottom: 16px;
 }
 .social-list-footer{
   display: flex;
