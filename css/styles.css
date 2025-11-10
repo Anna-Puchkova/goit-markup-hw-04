@@ -9,7 +9,7 @@ ol {
   margin: 0;
   padding: 0;
 }
-.p,
+p,
 h1,
 h2,
 h3,
@@ -406,9 +406,7 @@ opacity: 1;
 .page-footer {
   padding: 100px 0 100px;
   background-color: #2e2f42;
-  max-width: 1440px;
-
-}
+ }
 .footer-container{
   margin-right: 120px;
 }
