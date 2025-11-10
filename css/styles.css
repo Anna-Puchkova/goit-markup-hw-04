@@ -452,7 +452,9 @@ max-width: 1158px;
   color: #fff;
   
 }
-
+.social-list-footer{
+  gap: 16px;
+}
 .social-item-footer{
    width: 40px;
   height: 40px;
